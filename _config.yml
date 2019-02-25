@@ -19,3 +19,8 @@ paginate_path:     "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
+
+
+#category
+category_dir: category/
+tag-dir: tag/
