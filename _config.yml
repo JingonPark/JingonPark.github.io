@@ -20,7 +20,3 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
-
-#category
-category_dir: category/
-tag-dir: tag/
