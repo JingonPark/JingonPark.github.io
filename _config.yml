@@ -9,6 +9,8 @@ url:               "http://JingonPark.github.io"
 twitter_username:  Non
 github_username:   JingonPark
 facebook_username: JingonPark
+disqus_url : https://disqus.com/by/jingonpark/
+disqus_id : JingonPark
 
 # Build settings
 markdown:          kramdown
